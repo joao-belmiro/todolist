@@ -9,7 +9,7 @@
 		<relativePath/>
 	</parent>
 	<groupId>br.com.joaobelmiro</groupId>
-	<artifactId>todlist</artifactId>
+	<artifactId>todolist</artifactId>
 	<version>1.0.0</version>
 	<name>todlist</name>
 	<description>gerenciador de tarefas</description>
